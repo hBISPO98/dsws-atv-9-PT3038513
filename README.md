@@ -38,16 +38,22 @@ Evolução da aplicação web em Flask focada na integração de um sistema de n
 ---
 
 ## 👩🏽‍💻 Demonstração
+<div align="center">
+
 | Interface Inicial - Inserção da Admin Jenny |
 | :---: |
 | <img src="https://github.com/user-attachments/assets/4fcc58b2-444f-4567-aff6-1a49fad26887" /> |
 
+<br>
 
 | Notificação de novo usuário cadastrado |
 | :---: |
 | <img src="https://github.com/user-attachments/assets/fdcd90e3-526c-465b-a34b-5683be984063" /> |
 
+<br>
 
 | Notificação da atualização de cadastro de usuário existente |
 | :---: |
 | <img src="https://github.com/user-attachments/assets/900d082a-d1d2-41d3-b555-d175d7696131" /> |
+
+</div>
