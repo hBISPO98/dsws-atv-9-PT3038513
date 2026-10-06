@@ -42,7 +42,7 @@ Evolução da aplicação web em Flask focada na integração de um sistema de n
 
 | Interface Inicial - Inserção da Admin Jenny |
 | :---: |
-| <img src="https://github.com/user-attachments/assets/4fcc58b2-444f-4567-aff6-1a49fad26887" /> |
+| <img src="https://github.com/user-attachments/assets/a90cbe4b-ceb1-48ab-89ee-6572985407ab" /> |
 
 <br>
 
