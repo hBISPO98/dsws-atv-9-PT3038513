@@ -1,0 +1,12 @@
+<p>Olá!</p>
+
+{% if is_new %}
+    <p>Um novo usuário acabou de se cadastrar no sistema:</p>
+{% else %}
+    <p>Um usuário existente atualizou as suas informações/cargo no sistema:</p>
+{% endif %}
+
+<ul>
+    <li><strong>Nome:</strong> {{ user.username }}</li>
+    <li><strong>Cargo:</strong> {{ user.role.name }}</li>
+</ul>
